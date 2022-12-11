@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/proxy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/proxy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/proxy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/videos/opengauss/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/videos/opengauss/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/videos/opengauss/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/videos/opensource/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/videos/opensource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/videos/opensource/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/realization/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/realization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/realization/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/videos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/videos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/videos/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/videos/build/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/videos/build/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/videos/build/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/result/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/result/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/result/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/videos/new_sql/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/videos/new_sql/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/videos/new_sql/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/engine/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/engine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/engine/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/videos/evolution/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/videos/evolution/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/videos/evolution/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/committer/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/committer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/committer/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/videos/ecosystem/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/videos/ecosystem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/videos/ecosystem/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/solution/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/solution/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/solution/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/seata/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/seata/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/seata/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/videos/newfeature/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/videos/newfeature/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/videos/newfeature/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/cncf/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/cncf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/cncf/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/community/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/community/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/community/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/database/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/database/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/database/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/graduate/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/graduate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/graduate/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/elasticjob/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/elasticjob/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/elasticjob/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/alpha/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/alpha/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/alpha/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/ss_5.0.0beta/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/ss_5.0.0beta/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/ss_5.0.0beta/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/open_source_community/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/open_source_community/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/open_source_community/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/jul_26_an_introduction_to_distsql/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/jul_26_an_introduction_to_distsql/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/jul_26_an_introduction_to_distsql/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/oct_12_1_shardingspheres_metadata_loading_process/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/oct_12_1_shardingspheres_metadata_loading_process/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/oct_12_1_shardingspheres_metadata_loading_process/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/oct_12_2_a_distributed_database_middleware_ecosystem_driven_by_open_source/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/oct_12_2_a_distributed_database_middleware_ecosystem_driven_by_open_source/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/oct_12_2_a_distributed_database_middleware_ecosystem_driven_by_open_source/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/oct_12_3_how_can_students_participate_in_open_source_communities/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/oct_12_4_updates_and_faq_your_1_minute_quick_start_guide_to_shardingsphere/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/oct_12_4_updates_and_faq_your_1_minute_quick_start_guide_to_shardingsphere/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/oct_12_4_updates_and_faq_your_1_minute_quick_start_guide_to_shardingsphere/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/oct_12_5_e_hualu_shardingsphere_hulu_story_data_processing_shortcut/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/oct_12_6_autotable_your_butler_like_sharding_configuration_tool/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/oct_12_7_opengauss_shardingsphere_one_of_the_top_distribution_solutions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/oct_12_7_opengauss_shardingsphere_one_of_the_top_distribution_solutions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/oct_12_7_opengauss_shardingsphere_one_of_the_top_distribution_solutions/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/oct_12_8_shardingsphere_google_summer_of_code_students_how_was_your_open_source_experience/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/oct_12_8_shardingsphere_google_summer_of_code_students_how_was_your_open_source_experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/oct_12_8_shardingsphere_google_summer_of_code_students_how_was_your_open_source_experience/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/oct_12_9_shardingsphere_jd-baitiao_story_of_an_implementation_journey/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/material/oct_12_9_shardingsphere_jd-baitiao_story_of_an_implementation_journey/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/material/oct_12_9_shardingsphere_jd-baitiao_story_of_an_implementation_journey/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/nov_22_5.0.0_new/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/nov_23_1_integrate_sctl_into_ral/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/jan_28_blog_pg_create_a_distributed_database_solution_based_on_postgresql__opengauss/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/jan_28_blog_x_kernel_optimizations__upgrade_guide_for_apache_shardingsphere_5.0.0_the_ideal_database_management_ecosystem/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/jan_28_blog_x_how_to-develop_your_distributed_sql_statement_in_apache_shardingsphere/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/jan_28_f6_automobile_technologys_multimillion_rows_of_data_sharding_strategy_based_on_apache_shardings/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/jan_28_your_detailed_guide_to_apache_shardingspheres_operating_modes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/jan_28_blog_apache_shardingsphere_enterprise_applications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/jan_28_full_link_online_stress_testing_for_production_database_apache_shardingsphere_shadow_database_feature_upgrade/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/feb_18_apache_shardingsphere_5.1.0_now-avaliable/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/feb_23_stack_overflow/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/mar_23_distsql_cluster_governance_capabilities/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_03_09_sql_parse_format_function_a-_technical_deep_dive_by_apache_shardingsphere/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_03_11_asias_e-commerce_giant_dangdang_increases_order_processing_speed_by_30_saves_over_ten_million_in_technology_budget_with_apache_shardingsphere/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_03_16_create_a_distributed_database_with_high_availability_with_apache_shardingsphere/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_03_23_apache_shardingsphere_proxy_performance_with_postgresql_is_improved_26.8_with_version_5.1.0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_03_18_executor_engine_performance_optimization_showcase_with_apache_shardingsphere_5.1.0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_03_25_a_deep_dive_into_observability_apache_shardingsphere_agent/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_03_29_citic_industrial_cloud_apache_shardingsphere_-enterprise_applications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_04_01_1st_academic_paper_by_apache_shardingsphere_accepted_by_icde_a_top-level_database_conference/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_04_06_a_holistic_pluggable_platform_for_data_sharding_icde_2022_understanding_apache_shardingsphere/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_04_13_a_practical_guide_to_apache_shardingspheres_hint/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_04_18_apache_shardingsphere_5.1.1_is_available/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_04_21_apache_shardingsphere_opengauss_breaking_the-distributed_database_performance_record_with_10_million_tpmc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_04_26_how_to_use_shardingsphere-proxy_in_real_production_scenarios_your_quick_start_guide/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_04_29_apache_shardingsphere_enterprise_applications_zhuanzhuans_transaction_system_with_100s_of_millions_of_records/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_05_10_whats_the_database_plus_concept_and_what_challenges_can_it_solve/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_05_17_how_does_apache_shardingsphere_implement_distributed_transactions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_05_19_apache_shardingsphere_enterprise_user_case_zhongshang_huimins_transaction_middle_platform_architecture/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_05_24_your_guide_to_distsql_cluster_governance_capability_apache_shardingsphere_feature_update/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_06_02_database_mesh_2.0_database_governance_in_a_cloud_native_environment/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_06_08_how_does_apache_shardingsphere_standardize_and_format_code_we-use_spotless/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_06_10_apache_shardingsphere_enterprise_applications_bilibili/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_06_16_understanding_apache_shardingspheres_spi_and_why_its_simpler_than_dubbos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_06_21_heterogeneous_migration_reducing_dangdangs_customer_system_rto_60x_and_increasing_speed_by_20/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_06_28_cloud_native_deployment_for_a_high-performance_data_gateway_new-api-driver_apache_shardingsphere_5.1.2_is_released/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_06_30_shardingsphere__database_mesh/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_07_06_shardingsphere-jdbc_driver_released_a_jdbc_driver_that_requires_no_code_modifications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_07_08_shardingsphere-proxy_front-end_protocol_troubleshooting_guide_and_examples/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_07_12_shardingsphere_cloud_applications_-an_out-of-the-box_shardingsphere-proxy_cluster/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_07_20_user_case_china_unicom_digital_technology_ensuring_stability_efficiency_and_replicability_at_scale/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_07_26_distsql_applications_building_a_dynamic_distributed_database/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/material/2022_07_28_database_pluss_embracing_the_cloud_shardingsphere-on-cloud_solution_released/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shardingsphere.apache.org/blog/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://shardingsphere.apache.org/blog/cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shardingsphere.apache.org/blog/en/tags/"
+                />
+  </url>
+  
+</urlset>
